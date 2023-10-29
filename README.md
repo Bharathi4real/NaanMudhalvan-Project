@@ -17,3 +17,18 @@ Anas Mohamed.J - 8124240104011
 Mohamed Nasif.M- 812420104055 
 
 Mohamed Yunus.K - 812420104062 
+
+# Steps to use the app
+
+Deploy the Contract of Voting
+
+Put the Address of deployed contract in Voting.Js file.
+
+Run the following commands in VS Code terminal
+
+cd voting-app
+
+npm install
+
+npm start
+
